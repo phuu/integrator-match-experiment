@@ -1,0 +1,3 @@
+- selenium server
+- serve this directory on port 8001
+- `$ npm install && babel-node src/index.js`
